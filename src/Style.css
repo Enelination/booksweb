@@ -70,11 +70,13 @@ header .row .col-md-7 {
 }
 
 header .row .col-md-5 {
-  padding: 4.2vmin 1vmin;
+  padding: 20vmin 1vmin;
+  justify-content: center;
+  align-items: center;
 }
 
 header .row .col-md-5 img {
-  width: 90%;
+  width: 100%;
 }
 
 header {
